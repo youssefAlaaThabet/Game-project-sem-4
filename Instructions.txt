@@ -1,0 +1,24 @@
+1) 2 pop-up menus appear to choose the current and the opponent hero if no hero is selected (closed window) it is defaulted
+ to mage.
+ 
+ 
+2)the current hero should press the button with the minion details for it to be played onto his field.
+
+
+3)hero target the hero presses on the spell button then on the target hero button , minion target press on the spell then the
+ minion you want to affect , leeching spell press on the spell then the minion you want to target ,AOE and Field spells
+ you press on them then their effects happen.
+ 
+ 
+4)after playing the minion to attack with it the current hero presses the button of the minion on the field then the button
+ of the targeted minion to attack it.
+ 
+ 
+5)to end turn press the end turn button on the bottom of the GUI.
+
+
+6)when the end turn is pressed the orientation flips so the current hero is always at the bottom and the opponent on the top .
+
+
+7)run the controller class in the view package , hero power of mage or priest you press on the button then on the target
+minion/hero on the other heros you press on the hero power button then their effects happen immediately . 
